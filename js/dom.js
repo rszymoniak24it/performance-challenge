@@ -1,0 +1,10 @@
+export const loadingElement = document.getElementById("loading");
+export const userGridElement = document.getElementById("userGrid");
+export const searchInputElement = document.getElementById("searchInput");
+export const languageFilterElement = document.getElementById("languageFilter");
+export const sortSelectElement = document.getElementById("sortSelect");
+export const limitSelectElement = document.getElementById("limitSelect");
+export const totalUsersElement = document.getElementById("totalUsers");
+export const totalLanguagesElement = document.getElementById("totalLanguages");
+export const avgVersionElement = document.getElementById("avgVersion");
+export const loadTimeElement = document.getElementById("loadTime");
