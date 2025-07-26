@@ -5,7 +5,6 @@ import { fetchUsers, filterAndRenderUsers } from "./users.js";
 function initializeApp() {
     loadingElement.style.display = "block";
     fetchUsers();
-    console.log("App initialized");
 }
 
 searchInputElement.addEventListener("input", function (e) {

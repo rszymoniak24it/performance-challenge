@@ -1,0 +1,24 @@
+initial:
+14129 / 14147 requests
+~~ transferred
+~~ resources
+Finish: 4m and still not finished
+DOMContentLoaded: 906 ms
+Load: 951 ms
+
+
+day1:
+16 / 21 requests
+0.0 kB / 71.1 kB transferred
+57.0 kB / 556 kB resources
+Finish: 513 ms
+DOMContentLoaded: 75 ms
+Load: 117 ms
+
+day2:
+19 requests
+70.9 kB transferred
+558 kB resources
+Finish: 220 ms
+DOMContentLoaded: 58 ms
+Load: 68 ms
