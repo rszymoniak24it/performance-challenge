@@ -24,7 +24,7 @@
 ## Changelog
 
 - Removed redundant styles (cdn and files)
-- Moved critical-styles to body
+- Moved critical-styles to top
 - Removed redundant scripts (cdn and files)
 - Split main js for readability
 - Removed scroll and resize listeners for console logs
@@ -35,7 +35,7 @@
 - Removed timestamp from img url to enable image cache
 - Change eager to lazy option in images
 - Fix for all languages button to be clickable 
-- If statement to not re render list if clicked same active button
+- Added If statement to not re render list if clicked same active button
 - Implemented infinite scroll if results set to more than 10 
 - Minified critical css in head
 - Removed unused styles from main.css
