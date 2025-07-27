@@ -23,27 +23,27 @@
 
 ## Changelog
 
-Removed redundant styles (cdn and files)
-Moved critical-styles to body
-Removed redundant scripts (cdn and files)
-Split main js for readability
-Removed scroll and resize listeners for console logs
-Removed redundant functions for image processing
-Removed dependencies from package json
-Added minify in vite config
-Removed moment loadash axios (redundant libs)
-Removed timestamp from img url to enable image cache
-Change eager to lazy option in images
-Fix for all languages button to be clickable 
-If statement to not re render list if clicked same active button
-Implemented infinite scroll if results set to more than 10 
-Minified critical css in head
-Removed unused styles from main.css
+- Removed redundant styles (cdn and files)
+- Moved critical-styles to body
+- Removed redundant scripts (cdn and files)
+- Split main js for readability
+- Removed scroll and resize listeners for console logs
+- Removed redundant functions for image processing
+- Removed dependencies from package json
+- Added minify in vite config
+- Removed moment loadash axios (redundant libs)
+- Removed timestamp from img url to enable image cache
+- Change eager to lazy option in images
+- Fix for all languages button to be clickable 
+- If statement to not re render list if clicked same active button
+- Implemented infinite scroll if results set to more than 10 
+- Minified critical css in head
+- Removed unused styles from main.css
 
 ## Documentation
 
-**/lighthouse** contains 3 lighthouse reports and metrics from network tab from 3 different versions
-**/stats** contains bundle size analyzer report from 3 different versions
+- **/lighthouse** contains 3 lighthouse reports and metrics from network tab from 3 different versions
+- **/stats** contains bundle size analyzer report from 3 different versions
 
 ## Technical Requirements
 
